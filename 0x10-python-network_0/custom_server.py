@@ -22,6 +22,11 @@ class CustomHandler(SimpleHTTPRequestHandler):
             self.send_response(404)
             self.end_headers()
 
+    def do_OPTIONS(self):
+        self.send_response(200)
+        self.send_header('Allow', 'OPTIONS, HEAD, PUT')
+        self.end_headers()
+
 def run(server_class=HTTPServer, handler_class=CustomHandler, port=5000):
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
