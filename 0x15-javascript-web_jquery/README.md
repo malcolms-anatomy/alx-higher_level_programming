@@ -1,5 +1,3 @@
-Here's a `README.md` file for your project:
-
 ```markdown
 # JavaScript - Web jQuery
 
@@ -179,7 +177,7 @@ Write a JavaScript script that fetches and displays the translation of â€œHelloâ
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/alx-higher_level_programming.git
+    git clone https://github.com/malcolms-anatomy/alx-higher_level_programming.git
     ```
 
 2. Navigate to the directory:
@@ -197,5 +195,3 @@ Feel free to fork the repository and submit pull requests with improvements or f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Replace `"https://github.com/yourusername/alx-higher_level_programming.git"` with the actual URL of your GitHub repository if it's different.
