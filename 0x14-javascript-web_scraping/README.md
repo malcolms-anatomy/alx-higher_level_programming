@@ -1,5 +1,3 @@
-Certainly! Here’s a `README.md` file that documents the tasks covered in your JavaScript web scraping project:
-
 ```markdown
 # JavaScript Web Scraping Project
 
