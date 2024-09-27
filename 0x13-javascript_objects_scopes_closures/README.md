@@ -84,3 +84,7 @@ Prototypes for functions written in this project:
   * [102-concat.js](./102-concat.js): JavaScript script that concatenates two files
   passed as arguments into a file specifed as the third argument.
   * Usage: `./102-concat.js fileA fileB fileC`.
+
+
+
+Malcolm Iheremelam
